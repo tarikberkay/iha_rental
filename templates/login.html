@@ -1,0 +1,12 @@
+
+
+
+  <h2>Kullanıcı Girişi</h2>
+  <form method="post" action="{% url 'login' %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Giriş Yap</button>
+  </form>
+  {% if register_link %}
+    <p>Hesabınız yok mu? <a href="{% url 'register' %}">Hemen kaydolun!</a></p>
+  {% endif %}

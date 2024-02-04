@@ -1,0 +1,12 @@
+
+
+
+
+
+  <h2>Üye Kaydı</h2>
+  <form method="post" action="{% url 'register' %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Kayıt Ol</button>
+  </form>
+
