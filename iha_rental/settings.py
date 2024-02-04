@@ -36,6 +36,7 @@ AUTH_USER_MODEL = 'auth.User'
 # Application definition
 
 INSTALLED_APPS = [
+    'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -44,6 +45,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'iha_app',
+    'ckeditor',
+    
 ]
 
 MIDDLEWARE = [
