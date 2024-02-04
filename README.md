@@ -67,7 +67,22 @@ Kiralama List'leri getirir.
 ```
 
 
+Login Ekranını getirir.
 
+#### Öğeyi getir
+
+```http
+  http://127.0.0.1:8000/login/
+```
+
+
+Register Ekranını getirir.
+
+#### Öğeyi getir
+
+```http
+  http://127.0.0.1:8000/register/
+```
 
 
 
