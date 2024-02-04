@@ -48,35 +48,35 @@ Projeyi Çalıştırma
 
 
 
-İha List'leri getirir.
+
 
 #### Öğeyi getir
 
 ```http
   http://127.0.0.1:8000/api/iha/
 ```
+İha List'leri getirir.
 
 
 
-Kiralama List'leri getirir.
 
 #### Öğeyi getir
 
 ```http
   http://127.0.0.1:8000/api/kiralama/
 ```
+Kiralama List'leri getirir.
 
 
-Login Ekranını getirir.
 
 #### Öğeyi getir
 
 ```http
   http://127.0.0.1:8000/login/
 ```
+Login Ekranını getirir.
 
 
-Register Ekranını getirir.
 
 #### Öğeyi getir
 
@@ -84,7 +84,7 @@ Register Ekranını getirir.
   http://127.0.0.1:8000/register/
 ```
 
-
+Register Ekranını getirir.
 
 
 
