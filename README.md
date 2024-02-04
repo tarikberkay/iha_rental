@@ -45,7 +45,7 @@ Projeyi Çalıştırma
 ```http
   http://127.0.0.1:8000/api/
 ```
-
+<img src="https://github.com/tarikberkay/iha_rental/blob/main/images/iha_rental_api.png" alt="Tags" width="1085" height="425">
 
 
 
@@ -55,6 +55,9 @@ Projeyi Çalıştırma
 ```http
   http://127.0.0.1:8000/api/iha/
 ```
+
+<img src="https://github.com/tarikberkay/iha_rental/blob/main/images/api%3Aiha.png" alt="Tags" width="1085" height="712">
+
 İha List'leri getirir.
 
 
@@ -65,6 +68,9 @@ Projeyi Çalıştırma
 ```http
   http://127.0.0.1:8000/api/kiralama/
 ```
+
+<img src="https://github.com/tarikberkay/iha_rental/blob/main/images/api-kiralama.png" alt="Tags" width="1085" height="712">
+
 Kiralama List'leri getirir.
 
 
