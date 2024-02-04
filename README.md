@@ -13,7 +13,7 @@ Not: Sol taraftaki veriler Mac kurulumu için sağ taraftaki veriler Windows kur
 Projeyi Kurma  
 
 ```bash
-  git clone https://github.com/tarikberkay/post_django_rest.git](https://github.com/tarikberkay/iha_rental.git
+  https://github.com/tarikberkay/iha_rental.git
 ```
 
 Sanal Ortam Oluşturma
