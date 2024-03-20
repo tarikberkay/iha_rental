@@ -13,7 +13,7 @@ Not: Sol taraftaki veriler Mac kurulumu için sağ taraftaki veriler Windows kur
 Projeyi Kurma  
 
 ```bash
-  https://github.com/tarikberkay/iha_rental.git
+ git clone https://github.com/tarikberkay/iha_rental.git
 ```
 
 Sanal Ortam Oluşturma
